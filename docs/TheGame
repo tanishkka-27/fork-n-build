@@ -1,0 +1,23 @@
+# 🚀 Make It Yours
+
+Welcome to my mini project submission for the **Fork-n-Build** challenge!
+
+## Project Name: Guess the Number Game (C Language)
+
+---
+
+### 📝 Description
+**Guess the Number** 
+             is a command-line based game written in the C programming language. The computer randomly selects a number between 1 and 100, and the player must guess the number. After each guess, the program gives feedback whether the guess is too high, too low, or correct.
+
+This project was created to apply basic programming concepts such as loops, conditionals, random number generation, and user input/output.
+
+---
+
+## Tech Stack
+
+- **Language:** C
+- **Compiler:** GCC
+- **Interface:** Command Line
+
+---
